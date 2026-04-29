@@ -1,4 +1,4 @@
-package internet
+📦 internet
 
 func isTCPSocket(network string) bool {
 	switch network {
